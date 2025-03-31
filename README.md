@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0de16cbf-2518-4a12-9c43-6268db185e93)# Setup Redis and Run .NET Project
+# Setup Redis and Run .NET Project
 
 ## **1. Install Redis**
 
@@ -36,8 +36,8 @@ Should return: `PONG`
 
 ### **Clone the Repository**
 ```sh
-git clone https://github.com/your-repo/your-project.git
-cd your-project
+git clone https://github.com/Newt1712/BookingProblems.git
+cd BookingProblems
 ```
 
 ### **Install Dependencies**
@@ -55,9 +55,13 @@ Edit `appsettings.json`:
 }
 ```
 
-### **Run .NET Project **
+### **Run .NET Project**
 ```sh
+cd KV.Q2
 dotnet run
-![image](https://github.com/user-attachments/assets/b0768a93-a255-40fa-a0c2-9ac0f69f8bf1)
-
 ```
+![image](https://github.com/user-attachments/assets/e16a3380-441e-47fd-a3f7-a0a9ec8003c8)
+
+
+### **Final Result**
+![image](https://github.com/user-attachments/assets/455f1228-e523-4bd2-915d-a71c1d883d3e)
