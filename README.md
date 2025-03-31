@@ -7,6 +7,10 @@ Using Docker:
 ```sh
 docker run --name redis-server -d -p 6379:6379 redis
 ```
+Using Docker-Compose:
+```sh
+docker compose up -d
+```
 Or install Redis for Windows from [Memurai](https://www.memurai.com/) (since official Redis is not supported natively on Windows).
 
 ### **Linux & MacOS**
