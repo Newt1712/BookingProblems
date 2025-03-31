@@ -1,0 +1,6 @@
+@KV.Q2_HostAddress = http://localhost:5274
+
+GET {{KV.Q2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
